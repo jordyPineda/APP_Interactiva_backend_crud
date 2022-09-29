@@ -24,7 +24,7 @@ El API APP_Interactiva_backend_crud proporciona interfaces para la manipulación
 go get github.com/jordyPineda/APP_Interactiva_backend_crud.git
 
 #2. Moverse a la carpeta del repositorio
-cd $GOPATH/src/github.com/udistrital/plan_cuentas_mid
+cd $GOPATH/src/github.com/APP_Interactiva_backend_crud
 
 # 3. Moverse a la rama **develop**
 git pull origin develop && git checkout develop
