@@ -41,5 +41,5 @@ bee run
 
 ## Estado CI
 
-| Develop | Release 1.0.1 | Master |
+| Develop | Release 0.0.1 | Master |
 | -- | -- | -- |
