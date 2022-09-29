@@ -14,14 +14,14 @@ El API APP_Interactiva_backend_crud proporciona interfaces para la manipulación
 ### Variables de Entorno
 
 ```shell
-# Ejemplo que se debe actualizar acorde al proyecto
+# No definidas actualmente
 ```
 
 ### Ejecución del Proyecto
 
 ```shell
 #1. Obtener el repositorio con Go
-go get github.com/udistrital/plan_cuentas_mid
+go get github.com/jordyPineda/APP_Interactiva_backend_crud.git
 
 #2. Moverse a la carpeta del repositorio
 cd $GOPATH/src/github.com/udistrital/plan_cuentas_mid
@@ -43,4 +43,3 @@ bee run
 
 | Develop | Release 1.0.1 | Master |
 | -- | -- | -- |
-| [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/plan_cuentas_mid/status.svg?ref=refs/heads/develop)](https://hubci.portaloas.udistrital.edu.co/udistrital/plan_cuentas_mid) | [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/plan_cuentas_mid/status.svg?ref=refs/heads/release/1.0.1)](https://hubci.portaloas.udistrital.edu.co/udistrital/plan_cuentas_mid) | [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/plan_cuentas_mid/status.svg?ref=refs/heads/master)](https://hubci.portaloas.udistrital.edu.co/udistrital/plan_cuentas_mid) |
